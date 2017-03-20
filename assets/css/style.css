@@ -1,0 +1,67 @@
+.navbar {
+	height: 70px;
+	border-bottom: 3px solid #cccccc;
+	size: 20px;
+}
+
+body {
+      position: relative;
+      background-image: url("../images/pink_rice.png");
+  }
+h1 {
+	color: #4aaaa5;
+}
+
+ #About {
+ 	padding-top:50px;
+ 	height:600px; 
+ }
+  #Portfolio {
+  	padding-top:50px;
+  	height:600px;
+ }
+  #Contact {
+  	padding-top:50px;
+  	height:600px;
+  }
+
+#aboutmebox {
+	margin-top: 50px;
+	width: 600px;
+	height: 350px;
+	padding: 20px;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+}
+#contactbox {
+	margin-top: 50px;
+	width: 550px;
+	height: 550px;
+	padding: 20px;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+}
+#ProfilePic {
+	height: 220px;
+	width: 178px;
+}
+.preview {
+	width: 200px;
+	height: 170px;
+}
+#connectbox {
+	margin-top: 50px;
+	width: auto;
+	height: auto;
+	padding: 20px;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	align-content: center;
+}
+#logos {
+	height: 50px;
+	width: 50px;
+}
